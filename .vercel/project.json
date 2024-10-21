@@ -3,6 +3,6 @@
     "projectId": "prj_L6ekuifz1ihpn2cNiaTGELbOfP5c",
 
     "rewrites": [
-      { "source": "./src/index.js", "destination": "/" }
+      { "source": "/(.*)", "destination": "/" }
     ]
 }
